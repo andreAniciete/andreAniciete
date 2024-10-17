@@ -21,8 +21,8 @@ New Era University
 <h2>Certification</h2>
 
 <h2>Skill Set</h2>
-Java
-SQL
-Python
+Java<br>
+SQL<br>
+Python<br>
 
 <h2>Find Me Here</h2>
