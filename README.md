@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h2>Education</h2>
+BS Computer Science <br>
+New Era University
+
+<h2>Certification</h2>
+
+<h2>Skill Set</h2>
+Java
+SQL
+Python
+
+<h2>Find Me Here</h2>
